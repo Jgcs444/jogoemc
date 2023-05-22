@@ -6,38 +6,29 @@
 
 ![image](https://github.com/rebcost/jogo-advinhacao/blob/main/banner.png)
 
-### Descrição
+
 
 ![jogo-adivinhacao](https://github.com/rebcost/jogo-advinhacao/blob/main/adivinhacao.png)
 
-Esse projeto tem como objetivo desenvolver um jogo de adivinhação em que o computador sorteia um número entre 1 e 99. O jogador dever acertar na menor quantidade tentativas possíveis para conseguir alcançar uma maior pontuação.
+Esse projeto tem como objetivo desenvolver um jogo de adivinha��o em que o computador sorteia um n�mero entre 1 e 99. O jogador dever acertar na menor quantidade tentativas possiveis para conseguir alcan�ar uma maior pontua��o.
 
-O jogador pode escolher entre três níveis:
+O jogador pode escolher entre os seguintes n��veis:
 
-​        1 - Fácil
+       1 - F�cil
+        
+       2 - M�dio
 
-​        2 - Médio
+       3 - Dificil
 
-​        3 - Difícil
+    
 
-​    
-
-De acordo com dificuldade escolhida é atribuida uma quantidade de tentativas.     
+De acordo com dificuldade escolhida o jogo ir�estabelecer uma quantidade de tentativas.     
 
 Vence o jogo se acertar o número sorteado. Senão é gamer over.
 
 
 
-👾   Enjoy the game.
+👾   Aproveite o Jogo :)
 
 
 
-**Obs:** Esse projeto foi desenvolvido utilizando com referência o livro - Introdução à programação em C: Os primeiros passos de um desenvolvedor do autor Maurício Aniche.
-
-Acrescentei o meu conhecimento da Linguagem e adaptei algumas estruturas do código original.
-
-
-
-## Acesse Aqui 👇 
-
-https://replit.com/@rebcost/jogo-advinhacao#advinhacao.c
