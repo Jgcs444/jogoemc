@@ -1,4 +1,4 @@
-# ðŸŽ° Jogo AdivinhaÃ§Ã£o 
+# Jogo Adivinhação 
 
 <div> 
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
@@ -24,11 +24,11 @@ O jogador pode escolher entre os seguintes ní­veis:
 
 De acordo com dificuldade escolhida o jogo iráestabelecer uma quantidade de tentativas.     
 
-Vence o jogo se acertar o nÃºmero sorteado. SenÃ£o Ã© gamer over.
+Vence o jogo se acertar o número sorteado. Senão é gamer over.
 
 
 
-ðŸ‘¾   Aproveite o Jogo :)
+Aproveite o Jogo :)
 
 
 
